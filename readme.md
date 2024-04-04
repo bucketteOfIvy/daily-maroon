@@ -10,7 +10,7 @@ A few trends stand out immediately in this graph:
 
 1. WW2 really dipped the mentions of streets! The 1940-1945 bin is pitiful. I haven't read many of the Daily Maroon articles from then, so I'm not sure why that is.
 
-2. Urban Renewal in Hyde Park and Woodlawn -- around the 1950s and 1960s -- marks a shift in trends. In particular, we see mentions of 53rd skyrocket while mentions of 55th decrease. This reflects the shift of businnesses from 55th to 53rd Street during renewal. 
+2. Urban Renewal in Hyde Park and Woodlawn -- around the 1950s and 1960s -- marks a shift in trends. In particular, we see mentions of 53rd skyrocket while mentions of 55th decrease. This reflects the shift of bussinesses from 55th to 53rd Street during renewal. 
 
 3. 63rd Street has steadily decreasing mentions over time, with the "sharpest" bit of the change occuring during the racial changeover of the 50s. 
 
